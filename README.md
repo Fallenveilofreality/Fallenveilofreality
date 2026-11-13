@@ -6,3 +6,10 @@
 
 <p align="center">
 $\texttt{\color{#ADD8E6 }Spam ACC , free to block.}$
+ 
+<p align="center">
+$\texttt{\color{#ADD8E6 }MAIN}$
+
+<p align="center">
+<a href="https://github.com/Y1NGXING" target="_blank">1.<a/>
+<a href="https://github.com/KXEPEC" target="_blank">2.<a/>
