@@ -18,4 +18,4 @@ $\texttt{\color{#ADD8E6 }MAIN}$
 
 <p align="center">
 <a href="https://github.com/Y1NGXING" target="_blank">1.<a/>
-<a href="https://github.com/KXEPEC" target="_blank">2.<a/>
+<a href="https://github.com/VALRYY" target="_blank">2.<a/>
