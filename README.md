@@ -6,15 +6,18 @@
 
 <img width="2400" height="1350" alt="IMG_2057_processed" src="https://github.com/user-attachments/assets/263a6b02-624f-40fe-9e0c-ff3d5519e565" />
 
- 
+ </div>
+
+</sub></sup>
+    <p align="center">
+   ![Github Views](https://views.igorkowalczyk.dev/api/badge/Fallenveilofreality?label=Las+Plagas&labelColor=000&color=848482)
+   
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=155c5zu7o4nk3yhz3bwr7dmj5&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=3700ff&bar_color_cover=false">
   </a>
 </p>
 
-<p align="center">
-$\texttt{\color{#708090  }Spam ACC , free to block.}$
  
 <p align="center">
 $\texttt{\color{#708090  }MAIN}$
